@@ -1,0 +1,12 @@
+{
+  "name": "nextunnel-proxy",
+  "version": "1.0.0",
+  "description": "NexTunnel Proxy Server - HTTP, HTTPS, SSL, WS, SSH",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
